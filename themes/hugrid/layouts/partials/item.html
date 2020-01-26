@@ -1,0 +1,35 @@
+  <div class="nav-links">
+    <div class="nextprev-link prev">
+      {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
+    </div>
+    <div class="nextprev-link next">
+      {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
+    </div>
+  </div>
+
+  <div id="content">
+
+    <div id="content-detail">
+        <div class="item-desc">Date: {{ with .Params.date }}{{ dateFormat "Monday, January 2nd, 2006" . }}{{ end }} <br>
+From: {{ .Params.from }} <br>
+Message: {{ .Params.message }}<br>
+To: {{ .Params.to }}</div>
+	  </div>
+
+    <div id="content-main">
+      <div id="item-images">
+        <div class="item-image"><a href="/images/items/{{ .Params.image_back }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="/images/items/{{ .Params.image_back }}"></a></div>
+        <div class="item-image"><a href="/images/items/{{ .Params.image_front }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="/images/items/{{ .Params.image_front }}"></a></div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="nav-links">
+    <div class="nextprev-link prev">
+      {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
+    </div>
+    <div class="nextprev-link next">
+      {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
+    </div>
+  </div>
