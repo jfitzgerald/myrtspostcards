@@ -31,7 +31,7 @@ publishdir = "public"
     # but will fall back to this color for JPEG.
     # Expects a standard HEX color string with 3 or 6 digits.
     # See https://www.google.com/search?q=color+picker
-    bgColor = "#ffffff"
+    bgColor = "#f0ece2"
 
     [imaging.exif]
     # Regexp matching the fields you want to Exclude from the (massive) set of Exif info

@@ -1,5 +1,18 @@
 body {
-  background-color: white;
+  xxxbackground: #F0ECE2;
+  xxxaccent-light: #DFD3C3;
+  xxxaccent-dark: #C7B198;
+  xxxtext: #596E79;
+  xxxlogo-text: #4F606E;
+  xxxlogo-bg: #D4D4D9;
+
+  color: #4F606E;
+  background-color: #4F606E;
+  font-size: 1.2em;
+}
+
+.main {
+  background-color: #4F606E;
 }
 
 .sticky {
@@ -9,13 +22,17 @@ body {
 }
 
 .header {
-  background-color: white;
-  border-bottom: 1px solid #DDD;
+  border-bottom: 1px solid #4F606E;
+  background-color: #D4D4D9;
   z-index: 1000;
 }
 
 .container {
   margin-top: 136px;
+}
+
+.container .main {
+  background-color: #DFD3C3;
 }
 
 .main {
@@ -27,6 +44,10 @@ body {
   height: 115px;
   margin: 10px auto;
   text-align: center;
+}
+
+.logo  img {
+  max-height: 115px;
 }
 
 .splash {
@@ -43,13 +64,8 @@ body {
 }
 
 .splash-details {
-    max-width: 500px;
-    width: 90%;
     text-align: center;
-    color: #666;
-    margin: 25px auto;
-    background-color: #DDD;
-    border: 1px solid #CCC;
+    margin: 10px auto;
     padding: 10px 20px 20px 20px;
 }
 
@@ -59,14 +75,19 @@ body {
 
 .splash-details a {
 	font-weight: 700;
-	font-size: 16px;
-	color: #333;
+	color: #4F606E;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	padding: 10px 20px;
-	border: 3px solid #333;
+	border: 2px solid #4F606E;
 	display: inline-block;
 	margin: 10px auto;
+}
+
+.splash-details a:hover {
+	color: #FFF;
+	background-color: #4F606E;;
+	border: 2px solid #4F606E;
 }
 
 .og-grid li {
@@ -85,16 +106,21 @@ body {
 
 .nav-links {
   text-align: center;
+  padding: 6px 0px;
 }
+
 .nextprev-link {
-  font-size: 1.2em;
   display: inline;
   line-height: 1.2em;
   padding: 6px 12px;
 }
 
+.nextprev-link a {
+  color: #4F606E;
+}
+
 .nextprev-link:hover {
-  background-color: #EFEFEF;
+  font-weight: 800;
 }
 
 ul#thumb-list li {
@@ -121,12 +147,27 @@ ul#thumb-list li {
   box-shadow: 10px 10px 20px rgba(0,0,0,0.19), 6px 6px 6px rgba(0,0,0,0.23);
 }
 
-.content-detail {
-  width: 95%;
-}
-.ad-image img {
+.item-image img {
   max-width: 95%;
 }
-.ad-desc {
+.item-desc {
   padding: 8px 0px;
+}
+
+#content-detail {
+  width: 95%;
+}
+#content-detail table {
+  width: 90%;
+}
+
+#content-detail table > tbody > tr > th {
+  font-weight: 800;
+  text-align: right;
+  vertical-align: top;
+  padding: 4px;
+}
+#content-detail table > tbody > tr > td {
+  text-align: left;
+  padding-top: 4px;
 }

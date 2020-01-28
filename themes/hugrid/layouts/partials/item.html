@@ -10,16 +10,20 @@
   <div id="content">
 
     <div id="content-detail">
-        <div class="item-desc">Date: {{ with .Params.date }}{{ dateFormat "Monday, January 2nd, 2006" . }}{{ end }} <br>
-From: {{ .Params.from }} <br>
-Message: {{ .Params.message }}<br>
-To: {{ .Params.to }}</div>
+      <table>
+      <tbody>
+      <tr><th>Date:</th><td>{{ with .Params.date }}{{ dateFormat "Monday, January 2nd, 2006" . }}{{ end }}</td></tr>
+      <tr><th>From:</th><td>{{ .Params.from }}<br>{{ .Params.from_location }}</td></tr>
+      <tr><th>To:</th><td>{{ .Params.to }}<br>{{ .Params.to_location }}</td></tr>
+      <tr><th>Message:</th><td>{{ .Params.message }}</td></tr>
+      </tbody>
+      </table>
 	  </div>
 
     <div id="content-main">
       <div id="item-images">
-        <div class="item-image"><a href="/images/items/{{ .Params.image_back }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="/images/items/{{ .Params.image_back }}"></a></div>
         <div class="item-image"><a href="/images/items/{{ .Params.image_front }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="/images/items/{{ .Params.image_front }}"></a></div>
+        <div class="item-image"><a href="/images/items/{{ .Params.image_back }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="/images/items/{{ .Params.image_back }}"></a></div>
       </div>
     </div>
 
