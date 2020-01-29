@@ -1,4 +1,4 @@
-baseURL = "http://www.myrts-postcards.com/"
+baseURL = "http://www.myrtspostcards.com/"
 languageCode = "en-us"
 title = "Myrt's Postcards"
 theme = "hugrid"
@@ -26,7 +26,7 @@ publishdir = "public"
     # Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
     anchor = "smart"
 
-    # Default background color. 
+    # Default background color.
     # Hugo will preserve transparency for target formats that supports it,
     # but will fall back to this color for JPEG.
     # Expects a standard HEX color string with 3 or 6 digits.
@@ -55,20 +55,3 @@ publishdir = "public"
     disableLatLong = true
 
 [params]
-    # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
-
-    # Body background color
-    bodybgcolor = "#f9f9f9"
-
-    # Preview container button text
-    buttontext = "Read the Ad"
-
-    # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
-
-    # add extra-css
