@@ -1,13 +1,14 @@
 {
-  "cover" : "Photo: General View of Stanford University, Cal 1849",
-  "postmark" : "1912: Aug 6, 6pm San Jose, CAL ",
-  "to" : "Miss M.Williams, Capitola, Calif.",
-  "from" : "Hazel M.",
-  "message" : "Dear Myrtle, We sure do miss you. Every night we wonder what Myrtle is doing now. Hope you will find some excitement soon. With love, Hazel M.",
-  "slug" : "card100",
-  "image_back" : "myrts_postcards_1912-7_back.jpg",
-  "year" : 1912,
   "image_front" : "myrts_postcards_1912-7_front.jpg",
+  "slug" : "card100",
+  "postmark" : "Aug 6 6pm 1912 San Jose CAL",
   "weight" : 1,
+  "year" : 1912,
+  "message" : "Dear Myrtle,<br>We sure do miss you. Every night we wonder what Myrtle is doing now. Hope you will find some excitement soon. With love, Hazel M.",
+  "date" : "1912-08-06",
+  "to" : "Miss M.Williams<br> Capitola, Calif.",
+  "from" : "Hazel M.",
+  "image_back" : "myrts_postcards_1912-7_back.jpg",
+  "cover" : "Photograph: General View of Stanford University, Cal 1849",
   "notes" : ""
 }

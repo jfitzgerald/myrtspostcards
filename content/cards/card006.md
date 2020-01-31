@@ -1,13 +1,13 @@
 {
   "notes" : "",
-  "date" : "Dec. 22, 19??",
-  "weight" : 1,
-  "image_front" : "myrts_postcards_unk-3_front.jpg",
-  "slug" : "card006",
-  "image_back" : "myrts_postcards_unk-3_back.jpg",
-  "message" : "Dear Lilla and Girls,\\nI hope this finds all well. Wish you might have been here with us. Ma will be here Mar. 13. [?] in love and best wishes.\\nLovingly\\nKate",
+  "to" : "Mrs. Lilie Williams<br> 246 S 9th St, San Jose, Cal",
   "from" : "Kate",
-  "to" : "Mrs. Lilie Williams, 246 S 9th St, San Jose, Cal",
-  "postmark" : "Tulare Dec 22, 10am CAL",
-  "cover" : "December 25 A Merry Christmas"
+  "cover" : "December 25 A Merry Christmas",
+  "image_back" : "myrts_postcards_unk-3_back.jpg",
+  "year" : "",
+  "message" : "Dear Lilla and Girls, <br>I hope this finds all well. Wish you might have been here with us. Ma will be here Mar. 13. [?] in love and best wishes. Lovingly Kate",
+  "slug" : "card006",
+  "image_front" : "myrts_postcards_unk-3_front.jpg",
+  "weight" : 1,
+  "postmark" : "Tulare Dec 22, 10am CAL"
 }

@@ -1,15 +1,14 @@
 {
-  "to" : "Rea Bldg. San Jose Calif.",
-  "from" : "Gertrude",
-  "message" : "5/5/14 Dear Myrtle,\\nYour letter was received yesterday, and I will send the films in a couple days. I want to make some blue prints. Am going out to Margaret's school today.\n\nGertrude",
-  "from_location" : "Los Angeles, CAL",
-  "cover" : "Photo: Angel's Flight and Third St. Tunnel, B.P.O.E. building to left",
-  "postmark" : "May 5 11:30am 1914 Los Angeles CAL",
-  "weight" : 1,
-  "notes" : "",
-  "date" : "1914-05-05",
-  "to_location" : "Miss Myrtle Williams",
+  "year" : 1914,
+  "message" : "5/5/14<br>Dear Myrtle,<br>Your letter was received yesterday, and I will send the films in a couple days. I want to make some blue prints. Am going out to Margaret's school today.<br>Gertrude",
   "slug" : "card133",
+  "image_front" : "myrts_postcards_1914_front_2.jpg",
+  "weight" : 1,
+  "postmark" : "May 5 11:30am 1914 Los Angeles CAL",
+  "notes" : "",
+  "to" : "Miss Myrtle Williams<br> Rea Bldg. San Jose, Calif.",
+  "cover" : "Photograph: Angel's Flight and Third St. Tunnel, B.P.O.E. building to left",
+  "from" : "Gertrude Los Angeles, CAL",
   "image_back" : "myrts_postcards_1914_back_2.jpg",
-  "image_front" : "myrts_postcards_1914_front_2.jpg"
+  "date" : "1914-05-05"
 }

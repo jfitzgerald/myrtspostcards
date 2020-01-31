@@ -1,13 +1,14 @@
 {
   "notes" : "",
-  "weight" : 1,
   "image_back" : "myrts_postcards_1910-9_back.jpg",
-  "slug" : "card066",
-  "image_front" : "myrts_postcards_1910-9_front.jpg",
-  "year" : 1910,
-  "to" : "Miss Myrtle Williams, 246 S. 9th St., San Jose, Cal",
+  "to" : "Miss Myrtle Williams<br> 246 S. 9th St., San Jose, Cal",
+  "cover" : "Illustration: A Merry Christmas",
   "from" : "Grandma",
+  "date" : "1910-12-23",
   "message" : "Lots of love to you from grandma, Tulare, Dec 1910",
-  "postmark" : "1910: Dec 23, Tulare, Cal",
-  "cover" : "Illustration: A Merry Christmas"
+  "year" : 1910,
+  "weight" : 1,
+  "postmark" : "Dec 23, Tulare, Cal",
+  "slug" : "card066",
+  "image_front" : "myrts_postcards_1910-9_front.jpg"
 }

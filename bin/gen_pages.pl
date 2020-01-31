@@ -9,8 +9,9 @@ $Data::Dumper::Terse = 1;
 $Data::Dumper::Useqq = 1;
 $Data::Dumper::Pair = ' : ';
 
-my $json_ads = '/Users/justin/Code/myrtspostcards/data/cards.json';
-my $ads = JSON::Parse::json_file_to_perl($json_ads);
+#my $json_ads = '/Users/justin/Code/myrtspostcards/data/cards.json';
+my $json = $ARGV[0] or die "Missing input JSON file\n";
+my $ads = JSON::Parse::json_file_to_perl($json);
 #print Dumper($ads);
 
 # {

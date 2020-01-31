@@ -1,13 +1,13 @@
 {
-  "image_front" : "myrts_postcards_unk-1_front_1.jpg",
-  "year" : "Unknown",
-  "slug" : "card011",
-  "image_back" : "myrts_postcards_unk-1_back_1.jpg",
-  "weight" : 1,
   "notes" : "",
-  "cover" : "Photo: El Capitan, Yosemite",
-  "postmark" : "[torn]",
-  "message" : "Dear Myrtle, How are you enjoying your vacation? There was a hard thunder storm here to day. Marjorie C.",
   "to" : "Miss Myrtle, 123 [torn]",
-  "from" : "Marjorie C. "
+  "from" : "Marjorie C. ",
+  "cover" : "Photograph: El Capitan, Yosemite",
+  "image_back" : "myrts_postcards_unk-1_back_1.jpg",
+  "message" : "Dear Myrtle,<br>How are you enjoying your vacation? There was a hard thunder storm here to day. Marjorie C.",
+  "year" : "",
+  "weight" : 1,
+  "postmark" : "",
+  "slug" : "card011",
+  "image_front" : "myrts_postcards_unk-1_front_1.jpg"
 }

@@ -66,11 +66,13 @@ body {
 .splash-details {
     text-align: center;
     margin: 10px auto;
-    padding: 10px 20px 20px 20px;
+    padding: 10px 30px 30px 30px;
 }
 
 .splash-details p {
   margin-top: 10px;
+  font-size: .85em;
+  text-align: left;
 }
 
 .splash-details a {
@@ -161,11 +163,15 @@ ul#thumb-list li {
   width: 90%;
 }
 
+#content-detail p.message {
+  font-style: italic;
+}
 #content-detail table > tbody > tr > th {
   font-weight: 800;
   text-align: right;
   vertical-align: top;
   padding: 4px;
+  width: 25%;
 }
 #content-detail table > tbody > tr > td {
   text-align: left;
