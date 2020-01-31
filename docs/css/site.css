@@ -28,7 +28,7 @@ body {
 }
 
 .container {
-  margin-top: 136px;
+  margin-top: 101px;
 }
 
 .container .main {
@@ -41,13 +41,13 @@ body {
 }
 
 .logo {
-  height: 115px;
+  height: 80px;
   margin: 10px auto;
   text-align: center;
 }
 
 .logo  img {
-  max-height: 115px;
+  max-height: 80px;
 }
 
 .splash {
