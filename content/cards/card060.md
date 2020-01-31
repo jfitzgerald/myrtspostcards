@@ -1,14 +1,14 @@
 {
-  "message" : "Nov1, '10 Thanks for the pretty flower post card you sent me. What kind of a flower do you call it? I think I saw some with Buffalo Bill's show when I was in S.J. A pretty good picture of me don't you think? Ha! Ha! I just know I would have looked handsome in the rig you described. I wish I could have been there. I would make it \"Hurrah\" for the \"Sheet & Pillow case\" I had. I had a fine ten mile horse back ride before sun up yesterday am. It was fine but Oh! wasn't it cold! I should say it was. I had icicles on my mustache. W.C.F. Te! He!",
   "year" : 1910,
-  "postmark" : "Nov 2, Priest Valley",
-  "weight" : 1,
-  "image_front" : "myrts_postcards_1910-8_front_1.jpg",
   "slug" : "card060",
+  "to" : "Miss Myrtle Williams<br> 459 S. Eighth St. San Jose, Calif.",
+  "date" : "1910-10-18",
   "notes" : "",
-  "date" : "1910-11-02",
-  "from" : "W.C.F.Te! He!",
-  "to" : "Miss Myrtle C. Williams<br> 246 S. 9th St. San Jose, Cal",
-  "cover" : "Illustration of flowers; California Wild Flowers; [shorthand]",
-  "image_back" : "myrts_postcards_1910-8_back_1.jpg"
+  "cover" : "Photograph: Yosemite Falls, Yosemite Valley, Cal",
+  "postmark" : "Oct 18, 7am<br>Palo Alto",
+  "image_front" : "myrts_postcards_1910-8_front.jpg",
+  "image_back" : "myrts_postcards_1910-8_back.jpg",
+  "message" : "Dear Lovey Dove<br>-- Received your postal and was very glad you didn't forget to answer. Please don't forget that you said that you will come to see me when next in Paly. Don't bring back such memories as that dancing party where we danced the Brines Bustte\" fun wasn't it? Wish that you could be here for the sheet and pillow case party that our class is going to give you would make a fine guest  [?] How is Hazel? Give her my love, Honeybunch",
+  "weight" : 41,
+  "from" : "Honey Bunch"
 }

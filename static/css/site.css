@@ -131,21 +131,21 @@ ul#thumb-list li {
   width: 150px;
 }
 
-#content {
+.content {
   display: flex;
   flex-direction: column;
   text-align: center;
   padding-top: 15px;
   margin: 0 20px;
 }
-#content img {
+.content img {
 	margin: 8px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.3);
   transition: box-shadow 0.1s ease-in-out;
   padding: 8px;
 }
 
-#content img:hover {
+.content img:hover {
   box-shadow: 10px 10px 20px rgba(0,0,0,0.19), 6px 6px 6px rgba(0,0,0,0.23);
 }
 
@@ -156,24 +156,24 @@ ul#thumb-list li {
   padding: 8px 0px;
 }
 
-#content-detail {
+.content-detail {
   width: 95%;
 }
-#content-detail table {
+.content-detail table {
   width: 90%;
 }
 
-#content-detail p.message {
+.content-detail p.message {
   font-style: italic;
 }
-#content-detail table > tbody > tr > th {
+.content-detail table > tbody > tr > th {
   font-weight: 800;
   text-align: right;
   vertical-align: top;
   padding: 4px;
   width: 25%;
 }
-#content-detail table > tbody > tr > td {
+.content-detail table > tbody > tr > td {
   text-align: left;
   padding-top: 4px;
 }

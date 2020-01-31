@@ -1,12 +1,12 @@
 {
-  "notes" : "Eva was Ed Fleener's sister.",
-  "from" : "Eva",
-  "to" : "",
+  "postmark" : "",
   "cover" : "Photograph: Eva",
-  "image_back" : "myrts_postcards_unk-4_back_2.jpg",
-  "message" : "Happy New Year",
+  "notes" : "Eva was Ed Fleener's sister.",
+  "to" : "",
   "slug" : "card001",
-  "image_front" : "myrts_postcards_unk-4_front_2.jpg",
   "weight" : 1,
-  "postmark" : ""
+  "message" : "Happy New Year",
+  "from" : "Eva",
+  "image_back" : "myrts_postcards_unk-4_back_2.jpg",
+  "image_front" : "myrts_postcards_unk-4_front_2.jpg"
 }

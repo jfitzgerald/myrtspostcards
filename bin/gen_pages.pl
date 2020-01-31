@@ -40,16 +40,9 @@ my $ads = JSON::Parse::json_file_to_perl($json);
 # }
 my $base_path = '/Users/justin/Code/myrtspostcards/content/cards/';
 
-my $card_num = 1;
 foreach my $o (@$ads) {
-    $o->{weight} = $card_num;
     my $new_file = $base_path . $o->{slug} . ".md";
     print STDERR "$new_file\n";
-    #if(!-d $new_dir) {
-        #`mkdir $new_dir` or die "couldn't create dir $!";
-    #}
-
-    #my $new_file = $new_dir . "/_index.md";
     open my $fh, '>', $new_file or die $!;
     print $fh Dumper($o);
 }

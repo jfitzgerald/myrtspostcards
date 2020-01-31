@@ -18,9 +18,11 @@ my $base_path = '/Users/justin/Code/myrtspostcards/content/cards/';
 my @new_cards;
 my $weight = 1;
 foreach my $o (sort {
-    $a->{date} cmp $b->{date} ||
-    $a->{year} cmp $b->{year} ||
-    $a->{image_front} cmp $b->{image_front}
+    $a->{year} <=> $b->{year} 
+    or
+    $b->{date} cmp $a->{date} 
+    or
+    $b->{image_front} cmp $a->{image_front}
 } @$ads) {
     $o->{weight} = $weight++;
     push @new_cards, $o;
