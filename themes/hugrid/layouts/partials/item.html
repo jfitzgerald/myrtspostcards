@@ -20,8 +20,8 @@
     </div>
     <div class="content-main">
       <div class="item-images">
-        <div class="item-image"><a href="/images/items/{{ .Params.image_front }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="/images/items/{{ .Params.image_front }}"></a></div>
-        <div class="item-image"><a href="/images/items/{{ .Params.image_back }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="/images/items/{{ .Params.image_back }}"></a></div>
+        <div class="item-image"><a href="{{ .Site.BaseURL }}images/items/{{ .Params.image_front }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="{{ .Site.BaseURL }}images/items/{{ .Params.image_front }}"></a></div>
+        <div class="item-image"><a href="{{ .Site.BaseURL }}images/items/{{ .Params.image_back }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="{{ .Site.BaseURL }}images/items/{{ .Params.image_back }}"></a></div>
       </div>
     </div>
     <div class="content-detail">

@@ -1,4 +1,4 @@
-baseURL = "http://www.myrtspostcards.com/"
+baseURL = "https://jfitzgerald.github.io/myrtspostcards/"
 languageCode = "en-us"
 title = "Myrt's Postcards"
 theme = "hugrid"

@@ -13,6 +13,8 @@ body {
 
 .main {
   background-color: #4F606E;
+  padding-bottom: 30px;
+  padding-top: 20px;
 }
 
 .sticky {
@@ -119,6 +121,7 @@ body {
 
 .nextprev-link a {
   color: #4F606E;
+  font-weight: 800;
 }
 
 .nextprev-link:hover {
@@ -136,7 +139,7 @@ ul#thumb-list li {
   flex-direction: column;
   text-align: center;
   padding-top: 15px;
-  margin: 0 20px;
+  margin: 0 20px 30px 20px;
 }
 .content img {
 	margin: 8px;

@@ -1,8 +1,8 @@
 <ul id="og-grid" class="og-grid">
   {{ range sort $.Site.Data.cards "weight" }}
   <li>
-    <a href="/cards/{{.slug}}/">
-      <img src="/images/items/thumbs/{{.image_front}}" alt="{{.cover}}"/>
+    <a href="{{.slug}}/">
+      <img src="../../images/items/thumbs/{{.image_front}}" alt="{{.cover}}"/>
     </a>
   </li>
   {{ end }}
