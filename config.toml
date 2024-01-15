@@ -6,10 +6,10 @@ theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 #googleAnalytics = "UA-XXXXXXXX-Y"
 
-contentdir = "content"
-datadir = "data"
-layoutdir = "layouts"
-publishdir = "public"
+contentDir = "content"
+dataDir = "data"
+layoutDir = "layouts"
+publishDir = "docs"
 
 [imaging]
     # Default resample filter used for resizing. Default is Box,
