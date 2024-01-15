@@ -2,7 +2,7 @@
   {{ range sort $.Site.Data.cards "weight" }}
   <li>
     <a href="{{.slug}}/">
-      <img src="{{ .Site.BaseURL }}images/items/thumbs/{{.image_front}}" alt="{{.cover}}"/>
+      <img src="{{ $.Site.BaseURL }}images/items/thumbs/{{.image_front}}" alt="{{.cover}}"/>
     </a>
   </li>
   {{ end }}
