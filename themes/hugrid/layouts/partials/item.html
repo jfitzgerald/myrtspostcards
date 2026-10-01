@@ -1,46 +1,58 @@
-  <div class="nav-links">
-    <div class="nextprev-link prev">
-      {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
-    </div>
-    <div class="nextprev-link next">
-      {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
-    </div>
-  </div>
+{{ $previous := .Site.RegularPages.Next . }}
+{{ $next := .Site.RegularPages.Prev . }}
+<article class="object-record">
+  <nav class="object-nav" aria-label="Collection navigation">
+    <div>{{ with $previous }}<a id="previous-object" href="{{ .RelPermalink }}" rel="prev"><span aria-hidden="true">←</span> Previous</a>{{ end }}</div>
+    <div>{{ with $next }}<a id="next-object" href="{{ .RelPermalink }}" rel="next">Next <span aria-hidden="true">→</span></a>{{ end }}</div>
+  </nav>
 
-  <div class="content">
-    <div class="content-detail">
-      <table>
-      <tbody>
-      <tr><th>Cover:</th><td><p>{{ .Params.cover }}</p></td></tr>
-      <tr><th>Date:</th><td><p>{{ if .Params.date }}{{ dateFormat "Monday, January 2nd, 2006" .Params.date }}
-        {{ else if .Params.year }}{{ .Params.year }}
-        {{ else }}Unknown{{ end }}</p></td></tr>
-      </tbody>
-      </table>
-    </div>
-    <div class="content-main">
-      <div class="item-images">
-        <div class="item-image"><a href="{{ .Site.BaseURL }}images/items/{{ .Params.image_front }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="{{ .Site.BaseURL }}images/items/{{ .Params.image_front }}"></a></div>
-        <div class="item-image"><a href="{{ .Site.BaseURL }}images/items/{{ .Params.image_back }}" rel="lightbox" data-lightbox="{{ .Params.cover }}"><img src="{{ .Site.BaseURL }}images/items/{{ .Params.image_back }}"></a></div>
+  <header class="object-header">
+    <p class="eyebrow">Postcard {{ printf "%03d" .Weight }}</p>
+  </header>
+
+  <div class="object-overview">
+    <section class="object-summary" aria-labelledby="record-heading">
+      <div class="object-details__heading">
+        <h2 id="record-heading">Details</h2>
       </div>
-    </div>
-    <div class="content-detail">
-      <table>
-      <tbody>
-      <tr><th>Postmark:</th><td><p>{{ .Params.postmark | safeHTML }}</p></td></tr>
-      <tr><th>From:</th><td><p>{{ .Params.from | safeHTML }}</p></td></tr>
-      <tr><th>To:</th><td><p>{{ .Params.to | safeHTML }}</p></td></tr>
-      <tr><th>Message:</th><td><p class="message">{{ .Params.message | safeHTML }}</p></td></tr>
-      </tbody>
-      </table>
-	  </div>
-    </div>
+      <dl class="object-metadata">
+        <div class="object-metadata__title"><dt>Title</dt><dd>{{ .Params.cover | safeHTML }}</dd></div>
+        <div><dt>Date</dt><dd>{{ if .Params.date }}{{ time.Format "Monday, January 2, 2006" .Params.date }}{{ else if .Params.year }}{{ .Params.year }}{{ else }}Unknown{{ end }}</dd></div>
+        <div><dt>Postmark</dt><dd>{{ with .Params.postmark }}{{ . | safeHTML }}{{ else }}Not recorded{{ end }}</dd></div>
+        <div><dt>From</dt><dd>{{ with .Params.from }}{{ . | safeHTML }}{{ else }}Unknown{{ end }}</dd></div>
+        <div><dt>To</dt><dd>{{ with .Params.to }}{{ . | safeHTML }}{{ else }}Unknown{{ end }}</dd></div>
+      </dl>
+    </section>
 
-  <div class="nav-links">
-    <div class="nextprev-link prev">
-      {{with .Site.RegularPages.Next . }}<a href="{{.RelPermalink}}">&lt; Previous</a>{{end}}
-    </div>
-    <div class="nextprev-link next">
-      {{with .Site.RegularPages.Prev . }}<a href="{{.RelPermalink}}">Next &gt;</a>{{end}}
+    <div class="object-images" aria-label="Postcard views">
+      <figure class="object-image">
+        <a href="{{ printf "images/items/%s" .Params.image_front | relURL }}" data-lightbox="postcard" data-title="Front · {{ .Params.cover }}">
+          <img src="{{ printf "images/items/%s" .Params.image_front | relURL }}" alt="Front of {{ .Params.cover }}" fetchpriority="high">
+        </a>
+        <figcaption>
+          <span class="object-image__view"><strong>Front</strong><span>Select to enlarge</span></span>
+          {{ with .Params.front_caption }}<span class="object-image__caption">{{ . }}</span>{{ end }}
+        </figcaption>
+      </figure>
+      <figure class="object-image">
+        <a href="{{ printf "images/items/%s" .Params.image_back | relURL }}" data-lightbox="postcard" data-title="Back · {{ .Params.cover }}">
+          <img src="{{ printf "images/items/%s" .Params.image_back | relURL }}" alt="Back of {{ .Params.cover }}" loading="lazy" decoding="async">
+        </a>
+        <figcaption>
+          <span class="object-image__view"><strong>Back</strong><span>Select to enlarge</span></span>
+          <div class="object-image__message">
+            <strong>Message</strong>
+            <p>{{ with .Params.message }}{{ . | safeHTML }}{{ else }}No message recorded.{{ end }}</p>
+          </div>
+          {{ with .Params.notes }}<div class="object-image__note"><strong>Collection note</strong><p>{{ . }}</p></div>{{ end }}
+        </figcaption>
+      </figure>
     </div>
   </div>
+
+  <nav class="object-nav object-nav--footer" aria-label="Continue through collection">
+    <div>{{ with $previous }}<a href="{{ .RelPermalink }}" rel="prev"><span aria-hidden="true">←</span> Previous object</a>{{ end }}</div>
+    <a class="object-nav__collection" href="{{ "cards/" | relURL }}">Collection index</a>
+    <div>{{ with $next }}<a href="{{ .RelPermalink }}" rel="next">Next object <span aria-hidden="true">→</span></a>{{ end }}</div>
+  </nav>
+</article>

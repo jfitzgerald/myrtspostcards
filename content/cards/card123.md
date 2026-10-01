@@ -4,7 +4,7 @@
   "image_back" : "myrts_postcards_1913-2_back_2.jpg",
   "to" : "Miss M.C.Williams<br> Room 18 Rea Bldg San Jose Cal",
   "from" : "H.?.P.",
-  "date" : "1913-7-17",
+  "date" : "1913-07-17",
   "notes" : "",
   "cover" : "Photograph: The Walker Bank Building. Salt Lake City, Utah",
   "image_front" : "myrts_postcards_1913-2_front_2.jpg",

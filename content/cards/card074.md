@@ -7,7 +7,7 @@
   "from" : "BJ",
   "cover" : "Photograph: Merced High School Merced, Cal",
   "notes" : "",
-  "date" : "1911-03-025",
+  "date" : "1911-03-25",
   "slug" : "card074",
   "weight" : 77,
   "message" : "Dear Myrtle,<br>I suppose you thought I never would write. How do you like San Jose by this time. I like it over here fine. Tell Hazel Hello. Your friend, B.J. "

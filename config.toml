@@ -1,5 +1,5 @@
 baseURL = "https://jfitzgerald.github.io/myrtspostcards/"
-languageCode = "en-us"
+locale = "en-US"
 title = "Myrt's Postcards"
 theme = "hugrid"
 

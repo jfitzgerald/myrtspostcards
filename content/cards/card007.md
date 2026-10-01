@@ -2,6 +2,7 @@
   "from" : "Uncle R, Aunt K",
   "notes" : "Handwritten note by Myrt: Wasn't Aunt Kate's penmanship beautiful!",
   "cover" : "Friendship, contentment, propserity, cheer I wish you all these for the coming New Year.",
+  "front_caption" : "Friendship, contentment, prosperity, cheer—I wish you all these for the coming New Year.",
   "image_front" : "myrts_postcards_unk-2_front_2.jpg",
   "slug" : "card007",
   "weight" : 3,

@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<html lang="{{ .Site.Language.Locale | default "en-US" }}">
 	<head>
 	{{ partial "head.html" . }}
 	</head>
-	<body>
-    <div class="sticky header">
-      {{ partial "header.html" . }}
-    </div>
-		<div class="container">	
-			<div class="main">
+	<body class="page-{{ .Kind }}{{ with .Section }} section-{{ . }}{{ end }}">
+    <a class="skip-link" href="#main-content">Skip to collection</a>
+    {{ partial "header.html" . }}
+		<div class="container">
+			<main class="main" id="main-content">
 			{{ block "main" . }}
 			{{ end }}
-			</div>
+			</main>
 		</div>
+  {{ partial "footer.html" . }}
   {{ partial "scripts.html" . }}
 	</body>
 </html>

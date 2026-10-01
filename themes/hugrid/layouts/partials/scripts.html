@@ -1,7 +1,11 @@
-  <script src="{{ .Site.BaseURL }}js/lightbox-plus-jquery.min.js"></script>
+  <script src="{{ "js/lightbox-plus-jquery.min.js" | relURL }}"></script>
   <script>
       lightbox.option({
         'resizeDuration': 300,
-        'wrapAround': true
+        'wrapAround': true,
+        'fadeDuration': 250,
+        'imageFadeDuration': 250,
+        'albumLabel': 'View %1 of %2'
       })
   </script>
+  <script src="{{ "js/site.js" | relURL }}"></script>

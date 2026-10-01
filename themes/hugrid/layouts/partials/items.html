@@ -1,9 +1,26 @@
-<ul id="og-grid" class="og-grid">
-  {{ range sort $.Site.Data.cards "weight" }}
+<section class="collection" aria-labelledby="collection-title">
+  <header class="collection-header">
+    <div>
+      <p class="eyebrow">Digital archive · 1904–1926</p>
+      <h1 id="collection-title">The Postcard Collection</h1>
+    </div>
+    <p class="collection-header__intro">One hundred thirty-four pieces of correspondence, arranged in Myrtle’s original chronology. Select an object to examine its front, back, postmark, and message.</p>
+  </header>
+  <div class="collection-rule" aria-hidden="true"><span>134 objects</span></div>
+  <ul id="og-grid" class="og-grid collection-grid">
+  {{ range sort hugo.Data.cards "weight" }}
   <li>
-    <a href="{{.slug}}/">
-      <img src="{{ $.Site.BaseURL }}images/items/thumbs/{{.image_front}}" alt="{{.cover}}"/>
+    <a class="collection-card" href="{{ printf "cards/%s/" .slug | relURL }}" aria-label="View object {{ printf "%03d" (int .weight) }}: {{ .cover | plainify }}">
+      <span class="collection-card__image">
+        <img src="{{ printf "images/items/thumbs/%s" .image_front | relURL }}" alt="{{ .cover | plainify }}" loading="lazy" decoding="async"/>
+      </span>
+      <span class="collection-card__meta">
+        <span class="collection-card__number">No. {{ printf "%03d" (int .weight) }}</span>
+        <span class="collection-card__date">{{ with .year }}{{ . }}{{ else }}Undated{{ end }}</span>
+        <span class="collection-card__title">{{ .cover | plainify }}</span>
+      </span>
     </a>
   </li>
   {{ end }}
-</ul>
+  </ul>
+</section>

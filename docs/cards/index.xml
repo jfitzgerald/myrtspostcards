@@ -1,1221 +1,955 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cards on Myrt&#39;s Postcards</title>
-    <link>https://jfitzgerald.github.io/myrtspostcards/cards/</link>
-    <description>Recent content in Cards on Myrt&#39;s Postcards</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 23 Dec 1922 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jfitzgerald.github.io/myrtspostcards/cards/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card001/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card001/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card006/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card006/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card007/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card007/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card008/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card008/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card010/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card010/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card011/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card002/</link>
-      <pubDate>Wed, 24 Aug 1904 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card002/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card014/</link>
-      <pubDate>Tue, 06 Aug 1907 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card016/</link>
-      <pubDate>Wed, 26 Jun 1907 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card015/</link>
-      <pubDate>Wed, 12 Jun 1907 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card029/</link>
-      <pubDate>Mon, 28 Dec 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card029/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card019/</link>
-      <pubDate>Sun, 06 Dec 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card020/</link>
-      <pubDate>Mon, 28 Sep 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card024/</link>
-      <pubDate>Sat, 12 Sep 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card017/</link>
-      <pubDate>Wed, 09 Sep 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card030/</link>
-      <pubDate>Wed, 26 Aug 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card030/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card021/</link>
-      <pubDate>Tue, 11 Aug 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card025/</link>
-      <pubDate>Mon, 10 Aug 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card022/</link>
-      <pubDate>Sat, 01 Aug 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card018/</link>
-      <pubDate>Mon, 27 Jul 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card028/</link>
-      <pubDate>Fri, 17 Jul 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card028/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card027/</link>
-      <pubDate>Sun, 07 Jun 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card027/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card023/</link>
-      <pubDate>Fri, 22 May 1908 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card012/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card026/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card038/</link>
-      <pubDate>Mon, 22 Nov 1909 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card038/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card037/</link>
-      <pubDate>Tue, 26 Oct 1909 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card037/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card036/</link>
-      <pubDate>Mon, 25 Oct 1909 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card036/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card035/</link>
-      <pubDate>Mon, 02 Aug 1909 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card035/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card034/</link>
-      <pubDate>Wed, 19 May 1909 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card034/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card033/</link>
-      <pubDate>Thu, 06 May 1909 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card033/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card032/</link>
-      <pubDate>Sun, 28 Mar 1909 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card032/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card031/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card031/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card066/</link>
-      <pubDate>Fri, 23 Dec 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card066/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card065/</link>
-      <pubDate>Wed, 21 Dec 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card065/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card064/</link>
-      <pubDate>Mon, 19 Dec 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card064/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card063/</link>
-      <pubDate>Tue, 13 Dec 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card063/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card062/</link>
-      <pubDate>Thu, 03 Nov 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card062/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card060/</link>
-      <pubDate>Tue, 18 Oct 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card060/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card059/</link>
-      <pubDate>Tue, 18 Oct 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card059/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card058/</link>
-      <pubDate>Thu, 13 Oct 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card058/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card057/</link>
-      <pubDate>Tue, 11 Oct 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card057/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card056/</link>
-      <pubDate>Sun, 09 Oct 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card056/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card055/</link>
-      <pubDate>Tue, 27 Sep 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card055/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card054/</link>
-      <pubDate>Wed, 14 Sep 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card054/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card053/</link>
-      <pubDate>Thu, 01 Sep 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card053/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card052/</link>
-      <pubDate>Thu, 01 Sep 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card052/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card051/</link>
-      <pubDate>Tue, 23 Aug 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card051/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card050/</link>
-      <pubDate>Mon, 22 Aug 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card050/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card049/</link>
-      <pubDate>Wed, 17 Aug 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card049/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card048/</link>
-      <pubDate>Thu, 04 Aug 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card048/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card047/</link>
-      <pubDate>Wed, 03 Aug 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card047/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card046/</link>
-      <pubDate>Tue, 02 Aug 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card046/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card045/</link>
-      <pubDate>Tue, 26 Jul 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card045/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card042/</link>
-      <pubDate>Thu, 14 Jul 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card042/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card044/</link>
-      <pubDate>Sun, 10 Jul 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card044/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card043/</link>
-      <pubDate>Thu, 16 Jun 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card043/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card041/</link>
-      <pubDate>Wed, 23 Feb 1910 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card041/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card039/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card039/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card061/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card061/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card089/</link>
-      <pubDate>Tue, 26 Dec 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card089/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card088/</link>
-      <pubDate>Tue, 28 Nov 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card088/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card087/</link>
-      <pubDate>Wed, 13 Sep 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card087/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card086/</link>
-      <pubDate>Fri, 18 Aug 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card086/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card085/</link>
-      <pubDate>Thu, 03 Aug 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card085/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card084/</link>
-      <pubDate>Thu, 03 Aug 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card084/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card083/</link>
-      <pubDate>Tue, 01 Aug 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card083/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card081/</link>
-      <pubDate>Fri, 21 Jul 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card081/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card082/</link>
-      <pubDate>Wed, 05 Jul 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card082/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card080/</link>
-      <pubDate>Fri, 23 Jun 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card080/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card079/</link>
-      <pubDate>Tue, 06 Jun 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card079/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card078/</link>
-      <pubDate>Thu, 11 May 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card078/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card077/</link>
-      <pubDate>Tue, 02 May 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card077/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card076/</link>
-      <pubDate>Fri, 14 Apr 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card076/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card075/</link>
-      <pubDate>Thu, 06 Apr 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card075/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card074/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card074/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card073/</link>
-      <pubDate>Fri, 24 Feb 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card073/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card072/</link>
-      <pubDate>Fri, 17 Feb 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card072/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card071/</link>
-      <pubDate>Thu, 16 Feb 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card071/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card070/</link>
-      <pubDate>Sun, 12 Feb 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card070/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card069/</link>
-      <pubDate>Fri, 03 Feb 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card069/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card040/</link>
-      <pubDate>Thu, 02 Feb 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card040/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card068/</link>
-      <pubDate>Tue, 31 Jan 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card068/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card067/</link>
-      <pubDate>Sat, 28 Jan 1911 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card067/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card117/</link>
-      <pubDate>Tue, 31 Dec 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card117/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card116/</link>
-      <pubDate>Thu, 12 Dec 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card116/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card115/</link>
-      <pubDate>Thu, 05 Dec 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card115/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card114/</link>
-      <pubDate>Wed, 27 Nov 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card114/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card113/</link>
-      <pubDate>Fri, 15 Nov 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card113/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card112/</link>
-      <pubDate>Fri, 08 Nov 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card112/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card111/</link>
-      <pubDate>Wed, 09 Oct 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card111/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card110/</link>
-      <pubDate>Sat, 24 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card110/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card109/</link>
-      <pubDate>Fri, 23 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card109/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card108/</link>
-      <pubDate>Thu, 22 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card108/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card106/</link>
-      <pubDate>Wed, 21 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card106/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card107/</link>
-      <pubDate>Wed, 21 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card107/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card103/</link>
-      <pubDate>Tue, 20 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card103/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card104/</link>
-      <pubDate>Tue, 20 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card104/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card105/</link>
-      <pubDate>Tue, 20 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card105/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card102/</link>
-      <pubDate>Sat, 17 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card102/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card101/</link>
-      <pubDate>Sat, 17 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card101/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card099/</link>
-      <pubDate>Tue, 06 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card099/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card100/</link>
-      <pubDate>Tue, 06 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card100/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card098/</link>
-      <pubDate>Mon, 05 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card098/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card097/</link>
-      <pubDate>Sat, 03 Aug 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card097/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card095/</link>
-      <pubDate>Wed, 31 Jul 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card095/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card096/</link>
-      <pubDate>Fri, 12 Jul 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card096/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card094/</link>
-      <pubDate>Sat, 15 Jun 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card094/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card093/</link>
-      <pubDate>Tue, 21 May 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card093/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card092/</link>
-      <pubDate>Tue, 30 Apr 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card092/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card091/</link>
-      <pubDate>Sat, 17 Feb 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card091/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card090/</link>
-      <pubDate>Fri, 05 Jan 1912 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card090/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card123/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card123/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card131/</link>
-      <pubDate>Wed, 31 Dec 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card131/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card130/</link>
-      <pubDate>Tue, 25 Nov 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card130/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card129/</link>
-      <pubDate>Fri, 21 Nov 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card129/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card128/</link>
-      <pubDate>Wed, 19 Nov 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card128/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card127/</link>
-      <pubDate>Tue, 18 Nov 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card127/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card126/</link>
-      <pubDate>Wed, 01 Oct 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card126/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card125/</link>
-      <pubDate>Mon, 11 Aug 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card125/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card122/</link>
-      <pubDate>Sun, 13 Jul 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card122/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card124/</link>
-      <pubDate>Thu, 26 Jun 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card124/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card121/</link>
-      <pubDate>Fri, 11 Apr 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card121/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card120/</link>
-      <pubDate>Tue, 08 Apr 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card120/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card119/</link>
-      <pubDate>Sat, 22 Mar 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card119/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card118/</link>
-      <pubDate>Wed, 01 Jan 1913 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card118/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card009/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card133/</link>
-      <pubDate>Tue, 05 May 1914 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card133/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card132/</link>
-      <pubDate>Wed, 11 Feb 1914 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card132/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card134/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card134/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card003/</link>
-      <pubDate>Sat, 23 Dec 1922 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card003/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card004/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jfitzgerald.github.io/myrtspostcards/cards/card005/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jfitzgerald.github.io/myrtspostcards/cards/card005/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Cards on Myrt&#39;s Postcards</title>
+		<link>http://localhost:1313/myrtspostcards/cards/</link>
+		<description>Recent content in Cards on Myrt&#39;s Postcards</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 23 Dec 1922 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/myrtspostcards/cards/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card001/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card001/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card006/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card006/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card007/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card007/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card008/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card008/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card010/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card010/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card011/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card011/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card002/</link>
+				<pubDate>Wed, 24 Aug 1904 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card002/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card014/</link>
+				<pubDate>Tue, 06 Aug 1907 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card014/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card016/</link>
+				<pubDate>Wed, 26 Jun 1907 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card016/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card015/</link>
+				<pubDate>Wed, 12 Jun 1907 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card015/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card029/</link>
+				<pubDate>Mon, 28 Dec 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card029/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card019/</link>
+				<pubDate>Sun, 06 Dec 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card019/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card020/</link>
+				<pubDate>Mon, 28 Sep 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card020/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card024/</link>
+				<pubDate>Sat, 12 Sep 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card024/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card017/</link>
+				<pubDate>Wed, 09 Sep 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card017/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card030/</link>
+				<pubDate>Wed, 26 Aug 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card030/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card021/</link>
+				<pubDate>Tue, 11 Aug 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card021/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card025/</link>
+				<pubDate>Mon, 10 Aug 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card025/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card022/</link>
+				<pubDate>Sat, 01 Aug 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card022/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card018/</link>
+				<pubDate>Mon, 27 Jul 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card018/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card028/</link>
+				<pubDate>Fri, 17 Jul 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card028/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card027/</link>
+				<pubDate>Sun, 07 Jun 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card027/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card023/</link>
+				<pubDate>Fri, 22 May 1908 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card023/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card012/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card012/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card026/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card026/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card013/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card013/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card038/</link>
+				<pubDate>Mon, 22 Nov 1909 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card038/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card037/</link>
+				<pubDate>Tue, 26 Oct 1909 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card037/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card036/</link>
+				<pubDate>Mon, 25 Oct 1909 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card036/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card035/</link>
+				<pubDate>Mon, 02 Aug 1909 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card035/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card034/</link>
+				<pubDate>Wed, 19 May 1909 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card034/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card033/</link>
+				<pubDate>Thu, 06 May 1909 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card033/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card032/</link>
+				<pubDate>Sun, 28 Mar 1909 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card032/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card031/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card031/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card066/</link>
+				<pubDate>Fri, 23 Dec 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card066/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card065/</link>
+				<pubDate>Wed, 21 Dec 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card065/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card064/</link>
+				<pubDate>Mon, 19 Dec 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card064/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card063/</link>
+				<pubDate>Tue, 13 Dec 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card063/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card062/</link>
+				<pubDate>Thu, 03 Nov 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card062/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card060/</link>
+				<pubDate>Tue, 18 Oct 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card060/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card059/</link>
+				<pubDate>Tue, 18 Oct 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card059/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card058/</link>
+				<pubDate>Thu, 13 Oct 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card058/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card057/</link>
+				<pubDate>Tue, 11 Oct 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card057/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card056/</link>
+				<pubDate>Sun, 09 Oct 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card056/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card055/</link>
+				<pubDate>Tue, 27 Sep 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card055/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card054/</link>
+				<pubDate>Wed, 14 Sep 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card054/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card053/</link>
+				<pubDate>Thu, 01 Sep 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card053/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card052/</link>
+				<pubDate>Thu, 01 Sep 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card052/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card051/</link>
+				<pubDate>Tue, 23 Aug 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card051/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card050/</link>
+				<pubDate>Mon, 22 Aug 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card050/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card049/</link>
+				<pubDate>Wed, 17 Aug 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card049/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card048/</link>
+				<pubDate>Thu, 04 Aug 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card048/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card047/</link>
+				<pubDate>Wed, 03 Aug 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card047/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card046/</link>
+				<pubDate>Tue, 02 Aug 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card046/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card045/</link>
+				<pubDate>Tue, 26 Jul 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card045/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card042/</link>
+				<pubDate>Thu, 14 Jul 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card042/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card044/</link>
+				<pubDate>Sun, 10 Jul 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card044/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card043/</link>
+				<pubDate>Thu, 16 Jun 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card043/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card041/</link>
+				<pubDate>Wed, 23 Feb 1910 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card041/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card039/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card039/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card061/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card061/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card089/</link>
+				<pubDate>Tue, 26 Dec 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card089/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card088/</link>
+				<pubDate>Tue, 28 Nov 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card088/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card087/</link>
+				<pubDate>Wed, 13 Sep 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card087/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card086/</link>
+				<pubDate>Fri, 18 Aug 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card086/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card085/</link>
+				<pubDate>Thu, 03 Aug 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card085/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card084/</link>
+				<pubDate>Thu, 03 Aug 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card084/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card083/</link>
+				<pubDate>Tue, 01 Aug 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card083/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card081/</link>
+				<pubDate>Fri, 21 Jul 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card081/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card082/</link>
+				<pubDate>Wed, 05 Jul 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card082/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card080/</link>
+				<pubDate>Fri, 23 Jun 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card080/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card079/</link>
+				<pubDate>Tue, 06 Jun 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card079/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card078/</link>
+				<pubDate>Thu, 11 May 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card078/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card077/</link>
+				<pubDate>Tue, 02 May 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card077/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card076/</link>
+				<pubDate>Fri, 14 Apr 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card076/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card075/</link>
+				<pubDate>Thu, 06 Apr 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card075/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card074/</link>
+				<pubDate>Sat, 25 Mar 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card074/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card073/</link>
+				<pubDate>Fri, 24 Feb 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card073/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card072/</link>
+				<pubDate>Fri, 17 Feb 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card072/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card071/</link>
+				<pubDate>Thu, 16 Feb 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card071/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card070/</link>
+				<pubDate>Sun, 12 Feb 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card070/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card069/</link>
+				<pubDate>Fri, 03 Feb 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card069/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card040/</link>
+				<pubDate>Thu, 02 Feb 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card040/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card068/</link>
+				<pubDate>Tue, 31 Jan 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card068/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card067/</link>
+				<pubDate>Sat, 28 Jan 1911 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card067/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card117/</link>
+				<pubDate>Tue, 31 Dec 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card117/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card116/</link>
+				<pubDate>Thu, 12 Dec 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card116/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card115/</link>
+				<pubDate>Thu, 05 Dec 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card115/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card114/</link>
+				<pubDate>Wed, 27 Nov 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card114/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card113/</link>
+				<pubDate>Fri, 15 Nov 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card113/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card112/</link>
+				<pubDate>Fri, 08 Nov 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card112/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card111/</link>
+				<pubDate>Wed, 09 Oct 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card111/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card110/</link>
+				<pubDate>Sat, 24 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card110/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card109/</link>
+				<pubDate>Fri, 23 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card109/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card108/</link>
+				<pubDate>Thu, 22 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card108/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card106/</link>
+				<pubDate>Wed, 21 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card106/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card107/</link>
+				<pubDate>Wed, 21 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card107/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card103/</link>
+				<pubDate>Tue, 20 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card103/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card104/</link>
+				<pubDate>Tue, 20 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card104/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card105/</link>
+				<pubDate>Tue, 20 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card105/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card102/</link>
+				<pubDate>Sat, 17 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card102/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card101/</link>
+				<pubDate>Sat, 17 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card101/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card099/</link>
+				<pubDate>Tue, 06 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card099/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card100/</link>
+				<pubDate>Tue, 06 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card100/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card098/</link>
+				<pubDate>Mon, 05 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card098/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card097/</link>
+				<pubDate>Sat, 03 Aug 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card097/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card095/</link>
+				<pubDate>Wed, 31 Jul 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card095/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card096/</link>
+				<pubDate>Fri, 12 Jul 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card096/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card094/</link>
+				<pubDate>Sat, 15 Jun 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card094/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card093/</link>
+				<pubDate>Tue, 21 May 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card093/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card092/</link>
+				<pubDate>Tue, 30 Apr 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card092/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card091/</link>
+				<pubDate>Sat, 17 Feb 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card091/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card090/</link>
+				<pubDate>Fri, 05 Jan 1912 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card090/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card123/</link>
+				<pubDate>Thu, 17 Jul 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card123/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card131/</link>
+				<pubDate>Wed, 31 Dec 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card131/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card130/</link>
+				<pubDate>Tue, 25 Nov 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card130/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card129/</link>
+				<pubDate>Fri, 21 Nov 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card129/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card128/</link>
+				<pubDate>Wed, 19 Nov 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card128/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card127/</link>
+				<pubDate>Tue, 18 Nov 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card127/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card126/</link>
+				<pubDate>Wed, 01 Oct 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card126/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card125/</link>
+				<pubDate>Mon, 11 Aug 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card125/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card122/</link>
+				<pubDate>Sun, 13 Jul 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card122/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card124/</link>
+				<pubDate>Thu, 26 Jun 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card124/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card121/</link>
+				<pubDate>Fri, 11 Apr 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card121/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card120/</link>
+				<pubDate>Tue, 08 Apr 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card120/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card119/</link>
+				<pubDate>Sat, 22 Mar 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card119/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card118/</link>
+				<pubDate>Wed, 01 Jan 1913 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card118/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card009/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card009/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card133/</link>
+				<pubDate>Tue, 05 May 1914 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card133/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card132/</link>
+				<pubDate>Wed, 11 Feb 1914 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card132/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card134/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card134/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card003/</link>
+				<pubDate>Sat, 23 Dec 1922 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card003/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card004/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card004/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/myrtspostcards/cards/card005/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/myrtspostcards/cards/card005/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
