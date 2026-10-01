@@ -4,7 +4,7 @@
   "date" : "1908-09-09",
   "notes" : "Oliver--brother of Ed, Ira, Inez, Eva",
   "from" : "Oliver",
-  "message" : "P. Ore, Got my facde twisted a little but that don't hurt. [Face?] got 4 dents yesterday. Oliver",
+  "message" : "P. Ore, Got my face twisted a little but that don't hurt. [Face?] got 4 dents yesterday. Oliver",
   "weight" : 15,
   "slug" : "card017",
   "postmark" : "Portland, ORE, Sep. 9, 5pm, 1908",
